@@ -1397,6 +1397,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"clsx@npm:^2.1.1":
+  version: 2.1.1
+  resolution: "clsx@npm:2.1.1"
+  checksum: acd3e1ab9d8a433ecb3cc2f6a05ab95fe50b4a3cfc5ba47abb6cbf3754585fcb87b84e90c822a1f256c4198e3b41c7f6c391577ffc8678ad587fc0976b24fd57
+  languageName: node
+  linkType: hard
+
 "codebase@workspace:.":
   version: 0.0.0-use.local
   resolution: "codebase@workspace:."
@@ -1406,6 +1413,7 @@ __metadata:
     "@types/node": ^20
     "@types/react": ^19
     "@types/react-dom": ^19
+    clsx: ^2.1.1
     eslint: ^9
     eslint-config-next: 15.3.3
     eslint-config-prettier: ^10.1.5
@@ -1415,6 +1423,7 @@ __metadata:
     prettier: 3.5.3
     react: ^19.0.0
     react-dom: ^19.0.0
+    tailwind-merge: ^3.3.0
     tailwindcss: ^4
     typescript: ^5
   languageName: unknown
@@ -4106,6 +4115,13 @@ __metadata:
   version: 1.0.0
   resolution: "supports-preserve-symlinks-flag@npm:1.0.0"
   checksum: 53b1e247e68e05db7b3808b99b892bd36fb096e6fba213a06da7fab22045e97597db425c724f2bbd6c99a3c295e1e73f3e4de78592289f38431049e1277ca0ae
+  languageName: node
+  linkType: hard
+
+"tailwind-merge@npm:^3.3.0":
+  version: 3.3.0
+  resolution: "tailwind-merge@npm:3.3.0"
+  checksum: 9c8957753c09c5e79d490fc9d142a4d9ba1192410633d864867f5640cf5d45d06d31ea14ffcf83763a584b3202a131a2d1f1d62c47f205f598b71d8ec5071767
   languageName: node
   linkType: hard
 
